@@ -1639,6 +1639,11 @@
           "type": "url",
           "url": "http://images.yahoo.com/"
         },
+		{
+          "name": "Surfface Face & People Search Engine",
+          "type": "url",
+          "url": "https://surfface.com/"
+        },
         {
           "name": "TinEye Reverse Image Search",
           "type": "url",
